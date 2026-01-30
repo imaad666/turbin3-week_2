@@ -4,6 +4,6 @@
 
 ![NTRS Token](ntrs.png)
 
-![Screenshot 1](Screenshot 2026-01-30 at 19.07.41.png)
+![Screenshot 1](ss1.png)
 
-![Screenshot 2](Screenshot 2026-01-30 at 19.07.57.png)
+![Screenshot 2](ss2.png)
